@@ -23,7 +23,7 @@ const cardsData = [
     title: "Pro",
     img: pro,
     btn: "Become a Pro",
-    price: "$29.99",
+    price: "$49",
     mostPopular: true,
     data: [
       "Full courses library",
@@ -39,7 +39,7 @@ const cardsData = [
     title: "Teams",
     img: team,
     btn: "Get Teams",
-    price: "$69.99",
+    price: "$99",
     mostPopular: false,
     data: [
       "Full courses library",
