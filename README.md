@@ -3,6 +3,9 @@ Price Plans FrontEnd Challenge for Jump2Digital
 
 [![CodeFactor](https://www.codefactor.io/repository/github/boccosantiago/jump2digital-2022/badge)](https://www.codefactor.io/repository/github/boccosantiago/jump2digital-2022)
 
+## Deployed site
+https://jump2digital-2022.netlify.app/
+
 ## Screen shots
 
 ![main](./src/images/1.png)
@@ -19,3 +22,6 @@ Price Plans FrontEnd Challenge for Jump2Digital
     >`npm install`
 5. Run
     >`npm run dev`
+    
+## Technologies
+VITE + REACT 
