@@ -6,10 +6,10 @@ export default function Popup({ popup, setPopup }) {
       {popup && (
         <div className="container">
           <div className="popup">
+            <form>
             <span className="close" onClick={() => setPopup(false)}>
               ✖
             </span>
-            <form>
               <label htmlFor="email">
                 Enter your email and we'll get in touch with you soon:
               </label>
