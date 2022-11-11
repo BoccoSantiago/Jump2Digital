@@ -55,7 +55,7 @@ p {
   width: 350px;
   padding: 2rem;
   position: relative;
-  height: 550px;
+  height: 580px;
 }
 .img-wrapper {
   text-align: center;
@@ -172,6 +172,6 @@ input {
   font-size: x-large;
   position: relative;
   cursor: pointer;
-  left: 91%;
-  top: 10%;
+  rigth: 10px;
+  top: 0px;
 }
